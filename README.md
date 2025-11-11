@@ -10,7 +10,7 @@ This tool can add members from your target Telegram channel/group to your destin
 - Live status & logs UI
 
 ## 🚀 Watch it on YouTube 🚀
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/erfan4lx)
+[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/jkzr61xie68?si=1Hd1Z-1HLckI4We5)
 
 ## 🚀 Get it from our Website 🚀
 🌐 **Website:** [**https://erfan4lx.com/product/telegram-channel-member-adder/**](https://erfan4lx.com/product/telegram-channel-member-adder/) 
